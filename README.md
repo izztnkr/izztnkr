@@ -34,7 +34,7 @@ I'm a fullstack web developer leveraging a media arts and music technology backg
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izztnkr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<img align= "right" width= "450" height= "100" src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">
+<img align= "right" maxwidth= "100%" src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">
 
 
 **Soft Skills**
