@@ -15,10 +15,11 @@ I'm a fullstack web developer leveraging a media arts and music technology backg
 
 **Say Hello!**
 ---
-<!---![GitHub](icons/github.png)](https://github.com/izztnkr)&nbsp;&nbsp;&nbsp;&nbsp;
-![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/izzy-ramirez-izztnkr/)&nbsp;&nbsp;&nbsp;&nbsp;
-![Instagram](icons/instagram.png)](https://www.instagram.com/thinkntink/)&nbsp;&nbsp;&nbsp;&nbsp;--->
-
+[![GitHub](images/iconmonstr-github.png)](https://github.com/izztnkr)&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](images/iconmonstr-linkedin.png)](https://www.linkedin.com/in/izzy-ramirez-izztnkr/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](images/iconmonstr-instagram.png)](https://www.instagram.com/thinkntink/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmai](images/iconmonstr-gmail.png)](mailto:izzcreativa@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Whatsapp](images/iconmonstr-whatsapp.png)](https://wa.me/19568217650)&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Skills**
 ---
