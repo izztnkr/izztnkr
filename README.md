@@ -46,5 +46,6 @@ I'm a fullstack web developer leveraging a media arts and music technology backg
 ---
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=625BE3&size=17&lines=Tunes+of+the+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=625BE3&size=17&lines=Tunes+of+the+day)](https://git.io/typing-svg)&nbsp;&nbsp;
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1222970000&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)&nbsp;&nbsp;
