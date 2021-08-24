@@ -23,18 +23,22 @@ I'm a fullstack web developer leveraging a media arts and music technology backg
 **Skills**
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
+<!---![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp; --->
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izztnkr&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<img align= "right" maxwidth= "100%" src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">
+
+
+<img align= "right" maxwidth= "100%" src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif">&nbsp;&nbsp;
+
+
 
 
 **Soft Skills**
