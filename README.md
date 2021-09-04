@@ -5,7 +5,7 @@
 I'm a fullstack web developer leveraging a media arts and music technology background to build a more intuitive user experience on the web.
 
 - 🔭 I’m currently a Music Data Analyst for YouTube Music by day and programmer while in my BatCave.
-- 🌱 I’m currently learning Markdown, NodeJS, and React.
+- 🌱 I’m currently learning Javascript, NodeJS, and React.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with networking!
 - 💬 Ask me about my cat or completing the Coding Bootcamp at UT Austin.
@@ -31,6 +31,8 @@ I'm a fullstack web developer leveraging a media arts and music technology backg
 <!---![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp; --->
+
+Libraries: Bootstrap, JQuery UI, Moment.js 
 
 
 
