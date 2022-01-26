@@ -6,7 +6,7 @@ I'm a fullstack web developer leveraging a media arts and music technology backg
 
 - 🔭 I’m currently a Music Data Analyst for YouTube Music by day and programmer while in my BatCave.
 - 🌱 I’m currently learning React, MERN, State.
-- 👯 I’m looking to collaborate on .. full stack projects of all types!
+- 👯 I’m looking to collaborate on .. REACT and front end projects!
 - 🤔 I’m looking for help with networking!
 - 💬 Ask me about my cat or completing the Coding Bootcamp at UT Austin.
 - 📫 How to reach me: [izzcreativa@gmail.com](mailto:izzcreativa@gmail.com)
