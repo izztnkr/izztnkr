@@ -7,7 +7,7 @@ I'm a fullstack web developer and creative thinker leveraging a media arts and m
 
 - 🔭 I’m currently a Music Data Analyst for YouTube Music by day and programmer while in my BatCave.
 - <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> You can find my projects here <a href ="https://izztnkr.github.io/IsabelR-Portfolio/" target=_blank> portfolio</a>.
-- 🌱 I’m currently learning React, MERN, State.
+- 🌱 I’m currently diving into React, & the MERN stack.
 - 👯 I’m looking to collaborate on .. REACT and front end projects!
 - 🤔 I’m looking for help with networking!
 - 💬 Ask me about my cat or completing the Coding Bootcamp at UT Austin.
