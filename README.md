@@ -1,7 +1,7 @@
 <h1> Hi there 👋, my name is <em> Izzy </em> <h/1>
 
 #### I am drinking coffee, making cool things, and occasionally inspiring others.
-<img align="right" width="500" height="281.25" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611416f8983cc5ed07f395562dab4d756bf5056c4b8&rid=giphy.gif&ct=g">
+<img align="right" width="50%"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611416f8983cc5ed07f395562dab4d756bf5056c4b8&rid=giphy.gif&ct=g">
 
 I'm a bilingual fullstack web developer and creative thinker leveraging a media arts and music technology background to build a more intuitive user experience on the web.
 
