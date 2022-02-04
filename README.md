@@ -3,7 +3,7 @@
 #### I am drinking coffee, making cool things, and occasionally inspiring others.
 <img align="right" width="500" height="281.25" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611416f8983cc5ed07f395562dab4d756bf5056c4b8&rid=giphy.gif&ct=g">
 
-I'm a fullstack web developer and creative thinker leveraging a media arts and music technology background to build a more intuitive user experience on the web.
+I'm a bilingual fullstack web developer and creative thinker leveraging a media arts and music technology background to build a more intuitive user experience on the web.
 
 - 🔭 I’m currently a Music Data Analyst for YouTube Music by day and programmer while in my BatCave.
 - <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> You can find my projects here <a href ="https://izztnkr.github.io/IsabelR-Portfolio/" target=_blank> portfolio</a>.
@@ -13,8 +13,7 @@ I'm a fullstack web developer and creative thinker leveraging a media arts and m
 - 💬 Ask me about my cat or completing the Coding Bootcamp at UT Austin.
 - 📫 How to reach me: [izzcreativa@gmail.com](mailto:izzcreativa@gmail.com)
 - 😄 Pronouns: She | Her
-- ⚡ Fun fact: I speak 2 languages (English & Spanish)
-
+- ⚡ Fun fact: I was born in Mexico!
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,19 +41,22 @@ I'm a fullstack web developer and creative thinker leveraging a media arts and m
 
 <h1 align="center"> Skills </h1>
 
-<h3 align="center">Languages:  &nbsp;&nbsp;
+<h3 align="left">Languages:  
   
+ <div grid=display-flex padding=50px >
+   
+   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp; 
-  
+   
+  </div> 
 &nbsp;&nbsp;
   
 &nbsp;&nbsp;
 
 ORM, Databases, Testing, & Hosting: &nbsp;&nbsp;
 
-   
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;&nbsp; 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp; 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;  
@@ -80,6 +82,8 @@ Editors, Version Control & Project Management: &nbsp;&nbsp;
 
 
 Frameworks, Platforms, & Libraries: &nbsp;&nbsp;
+ 
+<div grid=display-flex padding=50px>  
   
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp; 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;&nbsp; 
@@ -91,14 +95,13 @@ Frameworks, Platforms, & Libraries: &nbsp;&nbsp;
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;&nbsp; 
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;&nbsp; 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;&nbsp; 
-  
+
+  </div>
 &nbsp;&nbsp;
   
 &nbsp;&nbsp;
 
-<div align="center">
-<details> 
-  <summary> 🎨 Visual Design </summary>
+  🎨 Visual Design
 
 
  &nbsp;&nbsp;
@@ -111,29 +114,24 @@ Frameworks, Platforms, & Libraries: &nbsp;&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;&nbsp;
 
-</div>
   
 &nbsp;&nbsp;
   
 &nbsp;&nbsp;
 
-<div align="center">   
-<details>
-<summary> 💿Audio </summary>
+Audio
   
 &nbsp;&nbsp;
   
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)&nbsp;&nbsp;
 ![Pro Tools](https://a11ybadges.com/badge?logo=protools)&nbsp;&nbsp;
 
-  </details>
-</div>
+
 &nbsp;&nbsp;
   
 &nbsp;&nbsp;
-<div align="center">
-  <details> 
-    <summary> 📊 Stats </summary>
+
+📊 Stats 
     
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -143,8 +141,7 @@ Frameworks, Platforms, & Libraries: &nbsp;&nbsp;
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izztnkr)](https://github.com/anuraghazra/github-readme-stats)
     
-  </details>
-</div> 
+ 
   
 </h3>
   
