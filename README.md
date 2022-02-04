@@ -2,7 +2,7 @@
 #### I am drinking coffee, making cool things, and occasionally inspiring others.
 <img align="right" width="500" height="281.25" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611416f8983cc5ed07f395562dab4d756bf5056c4b8&rid=giphy.gif&ct=g">
 
-I'm a fullstack web developer leveraging a media arts and music technology background to build a more intuitive user experience on the web.
+I'm a fullstack web developer and creative thinker leveraging a media arts and music technology background to build a more intuitive user experience on the web.
 
 - 🔭 I’m currently a Music Data Analyst for YouTube Music by day and programmer while in my BatCave.
 - 🌱 I’m currently learning React, MERN, State.
