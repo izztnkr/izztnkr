@@ -5,7 +5,7 @@
 
 I'm a bilingual fullstack web developer and creative thinker leveraging a media arts and music technology background to build a more intuitive user experience on the web.
 
-- 🔭 I’m currently a Music Data Analyst for YouTube Music by day and programmer while in my BatCave.
+- 🔭 I’m currently a Front End Web Developer for an advertising agency where I advocate for, lead, and mentor a team of inhouse staff developers.
 - <g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> You can find my projects here [portfolio.](https://izztnkr.github.io/IsabelR-Portfolio/)
 - 🌱 I’m currently diving into React, & the MERN stack.
 - 👯 I’m looking to collaborate on .. REACT and front end projects!
